@@ -1,0 +1,4 @@
+Fichiers non inclus dans ce fichier zip car ils n'ont pas pu être trouvés :
+- outputs/CodeApogee-Makdoud-Finance3.zip
+
+Pour obtenir un fichier de cette liste, demandez à Claude de le créer à nouveau dans la conversation d'origine.
